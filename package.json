@@ -1,0 +1,22 @@
+{
+  "name": "data-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehienvnag/data-crawler-effortless-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehienvnag/data-crawler-effortless-quiz/issues"
+  },
+  "homepage": "https://github.com/thehienvnag/data-crawler-effortless-quiz#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
